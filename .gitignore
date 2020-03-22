@@ -1,0 +1,8 @@
+.idea
+nohup.out
+redis_inited
+nodes.conf
+appendonly.aof
+dump.rdb
+run.pid
+output.log

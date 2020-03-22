@@ -2,4 +2,4 @@
 
 ./start.sh
 
-usage: ./redis-cluster start|stop|clear
+usage: ./redis-cluster.sh start|stop|clear

@@ -60,6 +60,7 @@ function clear_redis_cluster() {
     _rm $dir/dump.rdb
     _rm $dir/output.log
     _rm $dir/appendonly.aof
+    _rm $dir/nodes.conf
   done
 
   _rm redis_inited
